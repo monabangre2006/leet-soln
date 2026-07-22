@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-22T09:04:57.808Z",
+  "updatedAt": "2026-07-22T09:05:04.201Z",
   "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0015-3sum.cpp",
+          "path": "0015-3sum/0015-3sum.cpp",
+          "sha": "07e6c770882f75a513e45c490fe04cc02c7e73d1",
+          "lastSyncedAt": "2026-07-22T09:05:04.201Z"
+        }
+      ]
+    },
     {
       "frontendId": "26",
       "title": "Remove Duplicates from Sorted Array",
