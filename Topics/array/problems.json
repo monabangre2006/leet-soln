@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-22T09:05:04.201Z",
+  "updatedAt": "2026-07-22T09:05:15.020Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,6 +43,26 @@
           "path": "0015-3sum/0015-3sum.cpp",
           "sha": "07e6c770882f75a513e45c490fe04cc02c7e73d1",
           "lastSyncedAt": "2026-07-22T09:05:04.201Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "18",
+      "title": "4Sum",
+      "slug": "4sum",
+      "problemName": "0018-4sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+      "folderPath": "0018-4sum/",
+      "readmePath": "0018-4sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0018-4sum.cpp",
+          "path": "0018-4sum/0018-4sum.cpp",
+          "sha": "d2cb5fad06214d9f5dfc107005f5eed1373fe8bf",
+          "lastSyncedAt": "2026-07-22T09:05:15.020Z"
         }
       ]
     },
