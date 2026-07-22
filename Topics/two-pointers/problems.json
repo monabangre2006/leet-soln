@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-22T09:03:37.363Z",
+  "updatedAt": "2026-07-22T09:03:58.068Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,6 +23,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "461595a150eb810e39dd4bfc96c4b8ca6e00fee7",
           "lastSyncedAt": "2026-07-22T09:03:04.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "0287-find-the-duplicate-number/",
+      "readmePath": "0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0287-find-the-duplicate-number.cpp",
+          "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
+          "sha": "3ac33f463ea206dcab9ad4a38b59eef93970939e",
+          "lastSyncedAt": "2026-07-22T09:03:58.068Z"
         }
       ]
     },
