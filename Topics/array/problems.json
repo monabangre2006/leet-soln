@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-22T09:04:45.168Z",
+  "updatedAt": "2026-07-22T09:04:51.730Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,6 +103,26 @@
           "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp",
           "sha": "1bdaee0f4c9a7ca02c5d55200c87a4c84d5abbbf",
           "lastSyncedAt": "2026-07-22T09:04:36.573Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "problemName": "0152-maximum-product-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+      "folderPath": "0152-maximum-product-subarray/",
+      "readmePath": "0152-maximum-product-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0152-maximum-product-subarray.cpp",
+          "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.cpp",
+          "sha": "d7f38bdfc723ef928858692c662627fdd0bfeda0",
+          "lastSyncedAt": "2026-07-22T09:04:51.730Z"
         }
       ]
     },
