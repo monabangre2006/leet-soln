@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-22T09:01:08.389Z",
+  "updatedAt": "2026-07-22T09:02:33.362Z",
   "problems": [
     {
       "frontendId": "9",
@@ -22,7 +22,7 @@
           "filename": "0009-palindrome-number.cpp",
           "path": "0009-palindrome-number/0009-palindrome-number.cpp",
           "sha": "48c269c7e462905ce07f4d2f57e78b7f50808ec1",
-          "lastSyncedAt": "2026-07-22T09:01:08.389Z"
+          "lastSyncedAt": "2026-07-22T09:02:33.362Z"
         }
       ]
     }
