@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion"
+  },
+  "updatedAt": "2026-07-22T09:03:18.322Z",
+  "problems": [
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0509-fibonacci-number.cpp",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
+          "sha": "b104a820ef4d1fc832ff702b7f3bc0be6cf31613",
+          "lastSyncedAt": "2026-07-22T09:03:18.322Z"
+        }
+      ]
+    }
+  ]
+}
