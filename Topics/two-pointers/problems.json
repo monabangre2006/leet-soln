@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-22T09:03:04.446Z",
+  "updatedAt": "2026-07-22T09:03:37.363Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,6 +23,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "461595a150eb810e39dd4bfc96c4b8ca6e00fee7",
           "lastSyncedAt": "2026-07-22T09:03:04.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "0349-intersection-of-two-arrays/",
+      "readmePath": "0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "876cb33e5cd0e50f7a958ff871633f128ea0eecd",
+          "lastSyncedAt": "2026-07-22T09:03:37.363Z"
         }
       ]
     }
