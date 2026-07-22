@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-22T09:04:15.514Z",
+  "updatedAt": "2026-07-22T09:04:22.390Z",
   "problems": [
     {
       "frontendId": "34",
@@ -123,6 +123,26 @@
           "path": "0374-guess-number-higher-or-lower/0374-guess-number-higher-or-lower.cpp",
           "sha": "d741212aa0d07708c56e09471c788d8944e0afd0",
           "lastSyncedAt": "2026-07-22T09:03:49.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0704-binary-search.cpp",
+          "path": "0704-binary-search/0704-binary-search.cpp",
+          "sha": "de79ab7f212075cd77adf2476567f22f75bba895",
+          "lastSyncedAt": "2026-07-22T09:04:22.390Z"
         }
       ]
     }
