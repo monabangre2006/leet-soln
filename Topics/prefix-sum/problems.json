@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-07-22T09:04:28.074Z",
+  "problems": [
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "0560-subarray-sum-equals-k/",
+      "readmePath": "0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0560-subarray-sum-equals-k.cpp",
+          "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.cpp",
+          "sha": "c12c399f30b49b0d5d6896396a4d389ec8223888",
+          "lastSyncedAt": "2026-07-22T09:04:28.074Z"
+        }
+      ]
+    }
+  ]
+}
