@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-22T09:04:22.390Z",
+  "updatedAt": "2026-07-23T03:46:27.751Z",
   "problems": [
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "0033-search-in-rotated-sorted-array/",
+      "readmePath": "0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0033-search-in-rotated-sorted-array.cpp",
+          "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp",
+          "sha": "e6a209011704ba429f96546f3ea4ad60d17dd312",
+          "lastSyncedAt": "2026-07-23T03:46:27.751Z"
+        }
+      ]
+    },
     {
       "frontendId": "34",
       "title": "Find First and Last Position of Element in Sorted Array",
