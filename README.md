@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 11 | 11 | 1 |
+| 24 | 11 | 12 | 1 |
 
 ## Activity
 
@@ -17,20 +17,20 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | 2026-07-21 | 9 |
 | 2026-07-22 | 11 |
-| 2026-07-23 | 3 |
+| 2026-07-23 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 78% |
-| Binary Search | 10 | 43% |
-| Two Pointers | 6 | 26% |
+| Array | 19 | 79% |
+| Binary Search | 11 | 46% |
+| Two Pointers | 7 | 29% |
 | Hash Table | 4 | 17% |
 | Sorting | 4 | 17% |
 | Dynamic Programming | 3 | 13% |
 | Math | 3 | 13% |
-| Divide and Conquer | 2 | 9% |
+| Divide and Conquer | 2 | 8% |
 | Bit Manipulation | 1 | 4% |
 | Interactive | 1 | 4% |
 
@@ -38,8 +38,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
-| [Binary Search](Topics/binary-search/) | 10 |
+| [Array](Topics/array/) | 19 |
+| [Binary Search](Topics/binary-search/) | 11 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
@@ -53,6 +53,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 4 |
 | [String](Topics/string/) | 1 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
