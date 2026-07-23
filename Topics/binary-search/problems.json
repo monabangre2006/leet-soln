@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-23T03:53:25.729Z",
+  "updatedAt": "2026-07-23T04:12:26.564Z",
   "problems": [
     {
       "frontendId": "33",
@@ -22,7 +22,7 @@
           "filename": "0033-search-in-rotated-sorted-array.cpp",
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp",
           "sha": "e6a209011704ba429f96546f3ea4ad60d17dd312",
-          "lastSyncedAt": "2026-07-23T03:46:27.751Z"
+          "lastSyncedAt": "2026-07-23T04:12:26.564Z"
         }
       ]
     },
