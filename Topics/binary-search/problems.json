@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-23T03:46:27.751Z",
+  "updatedAt": "2026-07-23T03:53:25.729Z",
   "problems": [
     {
       "frontendId": "33",
@@ -63,6 +63,26 @@
           "path": "0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "346376a4fb02cdc92594eca4f17773bd65c28b6e",
           "lastSyncedAt": "2026-07-22T09:04:15.514Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "problemName": "0081-search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "folderPath": "0081-search-in-rotated-sorted-array-ii/",
+      "readmePath": "0081-search-in-rotated-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0081-search-in-rotated-sorted-array-ii.cpp",
+          "path": "0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.cpp",
+          "sha": "1a0f9e4b134e2b54dee23f45819c3c10aa1a63d1",
+          "lastSyncedAt": "2026-07-23T03:53:25.729Z"
         }
       ]
     },
