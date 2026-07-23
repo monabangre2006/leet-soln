@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-23T06:51:21.255Z",
+  "updatedAt": "2026-07-23T10:42:56.030Z",
   "problems": [
     {
       "frontendId": "4",
@@ -143,6 +143,26 @@
           "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
           "sha": "d9bce62e6804e6f5098d25601e7252ad1c47d229",
           "lastSyncedAt": "2026-07-22T09:02:49.008Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "0278-first-bad-version/",
+      "readmePath": "0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0278-first-bad-version.cpp",
+          "path": "0278-first-bad-version/0278-first-bad-version.cpp",
+          "sha": "1ce1d502a886b429370f267ba4ab547c1fb4465a",
+          "lastSyncedAt": "2026-07-23T10:42:56.030Z"
         }
       ]
     },
