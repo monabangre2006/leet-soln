@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-22T09:05:15.020Z",
+  "updatedAt": "2026-07-23T06:12:52.274Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,6 +83,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "461595a150eb810e39dd4bfc96c4b8ca6e00fee7",
           "lastSyncedAt": "2026-07-22T09:03:04.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.cpp",
+          "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
+          "sha": "a2ceb5f4d20421e5b8b94bd5f97ddc6a9b4a69eb",
+          "lastSyncedAt": "2026-07-23T06:12:52.274Z"
         }
       ]
     },
