@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-23T10:46:09.022Z",
+  "updatedAt": "2026-07-23T10:54:23.092Z",
   "problems": [
     {
       "frontendId": "4",
@@ -162,7 +162,7 @@
           "filename": "0278-first-bad-version.cpp",
           "path": "0278-first-bad-version/0278-first-bad-version.cpp",
           "sha": "1ce1d502a886b429370f267ba4ab547c1fb4465a",
-          "lastSyncedAt": "2026-07-23T10:42:56.030Z"
+          "lastSyncedAt": "2026-07-23T10:54:23.092Z"
         }
       ]
     },
