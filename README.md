@@ -5,30 +5,31 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 11 | 9 | 0 |
+| 21 | 11 | 10 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 2 |
+| 3 days | 3 days | 3 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-07-21 | 9 |
 | 2026-07-22 | 11 |
+| 2026-07-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 75% |
-| Binary Search | 7 | 35% |
-| Two Pointers | 6 | 30% |
-| Hash Table | 4 | 20% |
-| Sorting | 4 | 20% |
-| Dynamic Programming | 3 | 15% |
-| Math | 3 | 15% |
+| Array | 16 | 76% |
+| Binary Search | 8 | 38% |
+| Two Pointers | 6 | 29% |
+| Hash Table | 4 | 19% |
+| Sorting | 4 | 19% |
+| Dynamic Programming | 3 | 14% |
+| Math | 3 | 14% |
 | Bit Manipulation | 1 | 5% |
 | Divide and Conquer | 1 | 5% |
 | Interactive | 1 | 5% |
@@ -37,8 +38,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 15 |
-| [Binary Search](Topics/binary-search/) | 7 |
+| [Array](Topics/array/) | 16 |
+| [Binary Search](Topics/binary-search/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
