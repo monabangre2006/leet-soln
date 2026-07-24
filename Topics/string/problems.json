@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-22T09:03:04.446Z",
+  "updatedAt": "2026-07-24T09:51:17.271Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,6 +23,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "461595a150eb810e39dd4bfc96c4b8ca6e00fee7",
           "lastSyncedAt": "2026-07-22T09:03:04.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "0389-find-the-difference/",
+      "readmePath": "0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0389-find-the-difference.cpp",
+          "path": "0389-find-the-difference/0389-find-the-difference.cpp",
+          "sha": "d0c2b2b254207edbae77afc81afcdfd734ed5912",
+          "lastSyncedAt": "2026-07-24T09:51:17.271Z"
         }
       ]
     }
