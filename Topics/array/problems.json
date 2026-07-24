@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-23T06:51:21.255Z",
+  "updatedAt": "2026-07-24T03:52:21.824Z",
   "problems": [
     {
       "frontendId": "1",
@@ -263,6 +263,26 @@
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.cpp",
           "sha": "d7f38bdfc723ef928858692c662627fdd0bfeda0",
           "lastSyncedAt": "2026-07-22T09:04:51.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0162-find-peak-element.cpp",
+          "path": "0162-find-peak-element/0162-find-peak-element.cpp",
+          "sha": "51240086255c90aee61cea0b679f27a11e0aecc4",
+          "lastSyncedAt": "2026-07-24T03:52:21.824Z"
         }
       ]
     },
