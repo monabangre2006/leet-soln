@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-07-23T06:51:21.255Z",
+  "updatedAt": "2026-07-24T06:11:50.899Z",
   "problems": [
     {
       "frontendId": "15",
@@ -103,6 +103,26 @@
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.cpp",
           "sha": "fbbb068af6b7d39db8cf8181fd5ee5c58e5d2387",
           "lastSyncedAt": "2026-07-23T06:51:21.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1346",
+      "title": "Check If N and Its Double Exist",
+      "slug": "check-if-n-and-its-double-exist",
+      "problemName": "1346-check-if-n-and-its-double-exist",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+      "folderPath": "1346-check-if-n-and-its-double-exist/",
+      "readmePath": "1346-check-if-n-and-its-double-exist/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1346-check-if-n-and-its-double-exist.cpp",
+          "path": "1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
+          "sha": "2d967ddcef8aa75b4f943c7333731d3fed6c970c",
+          "lastSyncedAt": "2026-07-24T06:11:50.899Z"
         }
       ]
     }
