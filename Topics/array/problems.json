@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-24T04:22:24.901Z",
+  "updatedAt": "2026-07-24T06:11:50.899Z",
   "problems": [
     {
       "frontendId": "1",
@@ -463,6 +463,26 @@
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.cpp",
           "sha": "1dfe690ecdf8da0f4dc47c0b8b2e980fe8a59989",
           "lastSyncedAt": "2026-07-24T04:22:24.901Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1346",
+      "title": "Check If N and Its Double Exist",
+      "slug": "check-if-n-and-its-double-exist",
+      "problemName": "1346-check-if-n-and-its-double-exist",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+      "folderPath": "1346-check-if-n-and-its-double-exist/",
+      "readmePath": "1346-check-if-n-and-its-double-exist/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1346-check-if-n-and-its-double-exist.cpp",
+          "path": "1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
+          "sha": "2d967ddcef8aa75b4f943c7333731d3fed6c970c",
+          "lastSyncedAt": "2026-07-24T06:11:50.899Z"
         }
       ]
     }
