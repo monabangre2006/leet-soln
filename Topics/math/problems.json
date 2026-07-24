@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-24T04:40:00.662Z",
+  "updatedAt": "2026-07-24T06:03:36.633Z",
   "problems": [
     {
       "frontendId": "9",
@@ -103,6 +103,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "b104a820ef4d1fc832ff702b7f3bc0be6cf31613",
           "lastSyncedAt": "2026-07-22T09:03:18.322Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "problemName": "0633-sum-of-square-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "folderPath": "0633-sum-of-square-numbers/",
+      "readmePath": "0633-sum-of-square-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0633-sum-of-square-numbers.cpp",
+          "path": "0633-sum-of-square-numbers/0633-sum-of-square-numbers.cpp",
+          "sha": "f66921432457c41056b32dc016730e29e46a9170",
+          "lastSyncedAt": "2026-07-24T06:03:36.633Z"
         }
       ]
     }
