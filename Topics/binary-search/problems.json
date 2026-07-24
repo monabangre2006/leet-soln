@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-24T06:11:50.899Z",
+  "updatedAt": "2026-07-24T06:40:29.341Z",
   "problems": [
     {
       "frontendId": "4",
@@ -403,6 +403,26 @@
           "path": "1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
           "sha": "2d967ddcef8aa75b4f943c7333731d3fed6c970c",
           "lastSyncedAt": "2026-07-24T06:11:50.899Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1351",
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "slug": "count-negative-numbers-in-a-sorted-matrix",
+      "problemName": "1351-count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+      "folderPath": "1351-count-negative-numbers-in-a-sorted-matrix/",
+      "readmePath": "1351-count-negative-numbers-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1351-count-negative-numbers-in-a-sorted-matrix.cpp",
+          "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.cpp",
+          "sha": "c5d56916ec597c9d21298cace01f5de770c0bef7",
+          "lastSyncedAt": "2026-07-24T06:40:29.341Z"
         }
       ]
     }
