@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 19 | 17 | 1 |
+| 38 | 19 | 18 | 1 |
 
 ## Activity
 
@@ -18,18 +18,18 @@ Contains topicwise list of solved problems.
 | 2026-07-21 | 9 |
 | 2026-07-22 | 11 |
 | 2026-07-23 | 7 |
-| 2026-07-24 | 10 |
+| 2026-07-24 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 73% |
-| Binary Search | 22 | 59% |
+| Array | 27 | 71% |
+| Binary Search | 22 | 58% |
 | Two Pointers | 9 | 24% |
-| Sorting | 7 | 19% |
+| Math | 7 | 18% |
+| Sorting | 7 | 18% |
 | Hash Table | 6 | 16% |
-| Math | 6 | 16% |
 | Dynamic Programming | 3 | 8% |
 | Matrix | 3 | 8% |
 | Bit Manipulation | 2 | 5% |
@@ -48,7 +48,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 2 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
