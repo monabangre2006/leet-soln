@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 17 | 17 | 1 |
+| 36 | 18 | 17 | 1 |
 
 ## Activity
 
@@ -18,20 +18,20 @@ Contains topicwise list of solved problems.
 | 2026-07-21 | 9 |
 | 2026-07-22 | 11 |
 | 2026-07-23 | 7 |
-| 2026-07-24 | 8 |
+| 2026-07-24 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 74% |
-| Binary Search | 22 | 63% |
-| Two Pointers | 9 | 26% |
+| Array | 27 | 75% |
+| Binary Search | 22 | 61% |
+| Two Pointers | 9 | 25% |
 | Math | 6 | 17% |
 | Sorting | 6 | 17% |
 | Hash Table | 5 | 14% |
-| Dynamic Programming | 3 | 9% |
-| Matrix | 3 | 9% |
+| Dynamic Programming | 3 | 8% |
+| Matrix | 3 | 8% |
 | Divide and Conquer | 2 | 6% |
 | Interactive | 2 | 6% |
 
@@ -39,11 +39,12 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [Binary Search](Topics/binary-search/) | 22 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 2 |
