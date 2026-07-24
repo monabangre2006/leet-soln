@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-24T04:40:00.662Z",
+  "updatedAt": "2026-07-24T06:03:36.633Z",
   "problems": [
     {
       "frontendId": "4",
@@ -323,6 +323,26 @@
           "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.cpp",
           "sha": "875129506dbf17c4fb8082d623255b9005a87f16",
           "lastSyncedAt": "2026-07-24T04:00:32.478Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "problemName": "0633-sum-of-square-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "folderPath": "0633-sum-of-square-numbers/",
+      "readmePath": "0633-sum-of-square-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0633-sum-of-square-numbers.cpp",
+          "path": "0633-sum-of-square-numbers/0633-sum-of-square-numbers.cpp",
+          "sha": "f66921432457c41056b32dc016730e29e46a9170",
+          "lastSyncedAt": "2026-07-24T06:03:36.633Z"
         }
       ]
     },
