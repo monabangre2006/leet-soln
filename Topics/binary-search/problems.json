@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-23T10:54:23.092Z",
+  "updatedAt": "2026-07-24T03:52:21.824Z",
   "problems": [
     {
       "frontendId": "4",
@@ -103,6 +103,26 @@
           "path": "0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.cpp",
           "sha": "1a0f9e4b134e2b54dee23f45819c3c10aa1a63d1",
           "lastSyncedAt": "2026-07-23T03:53:25.729Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0162-find-peak-element.cpp",
+          "path": "0162-find-peak-element/0162-find-peak-element.cpp",
+          "sha": "51240086255c90aee61cea0b679f27a11e0aecc4",
+          "lastSyncedAt": "2026-07-24T03:52:21.824Z"
         }
       ]
     },
