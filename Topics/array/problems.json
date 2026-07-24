@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-24T09:14:38.504Z",
+  "updatedAt": "2026-07-24T09:32:53.548Z",
   "problems": [
     {
       "frontendId": "1",
@@ -523,6 +523,26 @@
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.cpp",
           "sha": "c5d56916ec597c9d21298cace01f5de770c0bef7",
           "lastSyncedAt": "2026-07-24T06:40:29.341Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2951",
+      "title": "Find the Peaks",
+      "slug": "find-the-peaks",
+      "problemName": "2951-find-the-peaks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-peaks/",
+      "folderPath": "2951-find-the-peaks/",
+      "readmePath": "2951-find-the-peaks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2951-find-the-peaks.cpp",
+          "path": "2951-find-the-peaks/2951-find-the-peaks.cpp",
+          "sha": "e49da9f3df31e9e8302155a9ef0b10f815a2e5fe",
+          "lastSyncedAt": "2026-07-24T09:32:53.548Z"
         }
       ]
     }
