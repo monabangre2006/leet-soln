@@ -4,8 +4,28 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-07-24T06:40:29.341Z",
+  "updatedAt": "2026-07-27T04:09:57.627Z",
   "problems": [
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0074-search-a-2d-matrix.cpp",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.cpp",
+          "sha": "005820a17d43802d64aad1816d87fa0f83798719",
+          "lastSyncedAt": "2026-07-27T04:09:57.627Z"
+        }
+      ]
+    },
     {
       "frontendId": "240",
       "title": "Search a 2D Matrix II",
