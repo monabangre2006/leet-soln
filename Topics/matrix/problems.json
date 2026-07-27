@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-07-27T04:09:57.627Z",
+  "updatedAt": "2026-07-27T10:53:02.946Z",
   "problems": [
     {
       "frontendId": "74",
@@ -83,6 +83,26 @@
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.cpp",
           "sha": "c5d56916ec597c9d21298cace01f5de770c0bef7",
           "lastSyncedAt": "2026-07-24T06:40:29.341Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1901",
+      "title": "Find a Peak Element II",
+      "slug": "find-a-peak-element-ii",
+      "problemName": "1901-find-a-peak-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-peak-element-ii/",
+      "folderPath": "1901-find-a-peak-element-ii/",
+      "readmePath": "1901-find-a-peak-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1901-find-a-peak-element-ii.cpp",
+          "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.cpp",
+          "sha": "a59690b20dee278b9c267f2688a63af786c7dbf3",
+          "lastSyncedAt": "2026-07-27T10:53:02.946Z"
         }
       ]
     }
