@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-27T06:55:15.375Z",
+  "updatedAt": "2026-07-27T10:53:02.946Z",
   "problems": [
     {
       "frontendId": "4",
@@ -523,6 +523,26 @@
           "path": "1482-minimum-number-of-days-to-make-m-bouquets/1482-minimum-number-of-days-to-make-m-bouquets.cpp",
           "sha": "be58d56a339d0569564884280160a20efa115201",
           "lastSyncedAt": "2026-07-27T06:13:50.827Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1901",
+      "title": "Find a Peak Element II",
+      "slug": "find-a-peak-element-ii",
+      "problemName": "1901-find-a-peak-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-peak-element-ii/",
+      "folderPath": "1901-find-a-peak-element-ii/",
+      "readmePath": "1901-find-a-peak-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1901-find-a-peak-element-ii.cpp",
+          "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.cpp",
+          "sha": "a59690b20dee278b9c267f2688a63af786c7dbf3",
+          "lastSyncedAt": "2026-07-27T10:53:02.946Z"
         }
       ]
     }
