@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 19 | 22 | 2 |
+| 44 | 19 | 23 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 5 |
+| 2 days | 4 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,18 +20,19 @@ Contains topicwise list of solved problems.
 | 2026-07-23 | 7 |
 | 2026-07-24 | 11 |
 | 2026-07-27 | 5 |
+| 2026-07-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 74% |
-| Binary Search | 27 | 63% |
-| Two Pointers | 9 | 21% |
-| Math | 7 | 16% |
+| Array | 33 | 75% |
+| Binary Search | 27 | 61% |
+| Two Pointers | 10 | 23% |
+| Math | 8 | 18% |
 | Sorting | 7 | 16% |
 | Hash Table | 6 | 14% |
-| Matrix | 5 | 12% |
+| Matrix | 5 | 11% |
 | Dynamic Programming | 3 | 7% |
 | Bit Manipulation | 2 | 5% |
 | Divide and Conquer | 2 | 5% |
@@ -40,7 +41,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
+| [Array](Topics/array/) | 33 |
 | [Binary Search](Topics/binary-search/) | 27 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
@@ -49,7 +50,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 2 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
@@ -57,6 +58,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 7 |
 | [String](Topics/string/) | 2 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 9 |
+| [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
