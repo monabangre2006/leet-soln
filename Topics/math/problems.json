@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-28T06:04:59.470Z",
+  "updatedAt": "2026-07-28T06:05:16.784Z",
   "problems": [
     {
       "frontendId": "9",
@@ -122,7 +122,7 @@
           "filename": "0326-power-of-three.cpp",
           "path": "0326-power-of-three/0326-power-of-three.cpp",
           "sha": "985c06fb37054629fa389724bf7a0e7f0da569cf",
-          "lastSyncedAt": "2026-07-28T06:04:59.470Z"
+          "lastSyncedAt": "2026-07-28T06:05:16.784Z"
         }
       ]
     },
