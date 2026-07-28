@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-27T10:55:37.324Z",
+  "updatedAt": "2026-07-28T04:02:18.896Z",
   "problems": [
     {
       "frontendId": "1",
@@ -343,6 +343,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
           "sha": "a2ceb5f4d20421e5b8b94bd5f97ddc6a9b4a69eb",
           "lastSyncedAt": "2026-07-23T06:12:52.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0189-rotate-array.cpp",
+          "path": "0189-rotate-array/0189-rotate-array.cpp",
+          "sha": "b7dd7146edb1623c56ae026eefcf72a3b605996e",
+          "lastSyncedAt": "2026-07-28T04:02:18.896Z"
         }
       ]
     },
