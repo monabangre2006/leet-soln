@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 47 | 21 | 24 | 2 |
+| 48 | 22 | 24 | 2 |
 
 ## Activity
 
@@ -20,19 +20,19 @@ Contains topicwise list of solved problems.
 | 2026-07-23 | 7 |
 | 2026-07-24 | 11 |
 | 2026-07-27 | 5 |
-| 2026-07-28 | 4 |
+| 2026-07-28 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 70% |
-| Binary Search | 27 | 57% |
+| Array | 33 | 69% |
+| Binary Search | 27 | 56% |
 | Math | 10 | 21% |
 | Two Pointers | 10 | 21% |
 | Sorting | 7 | 15% |
 | Hash Table | 6 | 13% |
-| Matrix | 5 | 11% |
+| Matrix | 5 | 10% |
 | Bit Manipulation | 3 | 6% |
 | Dynamic Programming | 3 | 6% |
 | Recursion | 3 | 6% |
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Sorting](Topics/sorting/) | 7 |
-| [String](Topics/string/) | 2 |
+| [String](Topics/string/) | 3 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 1 |
