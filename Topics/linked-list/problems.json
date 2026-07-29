@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-07-28T04:20:50.588Z",
+  "updatedAt": "2026-07-29T03:50:35.120Z",
   "problems": [
     {
       "frontendId": "237",
@@ -23,6 +23,26 @@
           "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.cpp",
           "sha": "7e551d14614d56348463413c9ee261e6976af783",
           "lastSyncedAt": "2026-07-28T04:20:50.588Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "0876-middle-of-the-linked-list/",
+      "readmePath": "0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0876-middle-of-the-linked-list.cpp",
+          "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
+          "sha": "b055716c7b21105efd14bbfbca89b70338dd4a5d",
+          "lastSyncedAt": "2026-07-29T03:50:35.120Z"
         }
       ]
     }
