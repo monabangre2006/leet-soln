@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-30T03:52:25.869Z",
+  "updatedAt": "2026-07-30T04:02:20.580Z",
   "problems": [
     {
       "frontendId": "15",
@@ -103,6 +103,26 @@
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "0cfe0ea401c570a9f04287d0ac84c7f106383b7a",
           "lastSyncedAt": "2026-07-30T03:52:25.869Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0142-linked-list-cycle-ii.cpp",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
+          "sha": "625ae912c060974ee655ce5962efcb92611e4f52",
+          "lastSyncedAt": "2026-07-30T04:02:20.580Z"
         }
       ]
     },
