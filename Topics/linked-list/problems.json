@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-07-30T04:43:24.271Z",
+  "updatedAt": "2026-07-31T04:37:20.891Z",
   "problems": [
     {
       "frontendId": "141",
@@ -63,6 +63,26 @@
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.cpp",
           "sha": "8cfb5a04122c4ff2fcc90e232fe9292599026852",
           "lastSyncedAt": "2026-07-29T04:04:04.389Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0234-palindrome-linked-list.cpp",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
+          "sha": "0b6f45f04da0fa0bff8031585049a10751c8b260",
+          "lastSyncedAt": "2026-07-31T04:37:20.891Z"
         }
       ]
     },
