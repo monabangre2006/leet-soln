@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack"
+  },
+  "updatedAt": "2026-07-31T04:37:20.891Z",
+  "problems": [
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0234-palindrome-linked-list.cpp",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
+          "sha": "0b6f45f04da0fa0bff8031585049a10751c8b260",
+          "lastSyncedAt": "2026-07-31T04:37:20.891Z"
+        }
+      ]
+    }
+  ]
+}
