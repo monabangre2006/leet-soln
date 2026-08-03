@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-07-24T09:51:17.271Z",
+  "updatedAt": "2026-08-03T04:17:25.614Z",
   "problems": [
     {
       "frontendId": "15",
@@ -63,6 +63,26 @@
           "path": "0056-merge-intervals/0056-merge-intervals.cpp",
           "sha": "2e662bf4b1563f77d1ca4834694d45754c117c03",
           "lastSyncedAt": "2026-07-22T09:05:24.317Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0148-sort-list.cpp",
+          "path": "0148-sort-list/0148-sort-list.cpp",
+          "sha": "6f1817c79e1b63f740e344a6c63fe9c6c121c21b",
+          "lastSyncedAt": "2026-08-03T04:17:25.614Z"
         }
       ]
     },
