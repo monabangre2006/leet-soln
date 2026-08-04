@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 61 | 27 | 31 | 3 |
+| 62 | 28 | 31 | 3 |
 
 ## Activity
 
@@ -25,19 +25,19 @@ Contains topicwise list of solved problems.
 | 2026-07-30 | 3 |
 | 2026-07-31 | 3 |
 | 2026-08-03 | 4 |
-| 2026-08-04 | 1 |
+| 2026-08-04 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 54% |
+| Array | 34 | 55% |
 | Binary Search | 27 | 44% |
 | Two Pointers | 19 | 31% |
 | Linked List | 14 | 23% |
 | Math | 11 | 18% |
-| Hash Table | 9 | 15% |
-| Sorting | 8 | 13% |
+| Hash Table | 10 | 16% |
+| Sorting | 9 | 15% |
 | Recursion | 6 | 10% |
 | Matrix | 5 | 8% |
 | Bit Manipulation | 3 | 5% |
@@ -46,13 +46,13 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 33 |
+| [Array](Topics/array/) | 34 |
 | [Binary Search](Topics/binary-search/) | 27 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 14 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 3 |
 | [String Matching](Topics/string-matching/) | 1 |
