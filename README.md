@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 28 | 31 | 3 |
+| 63 | 29 | 31 | 3 |
 
 ## Activity
 
@@ -25,19 +25,19 @@ Contains topicwise list of solved problems.
 | 2026-07-30 | 3 |
 | 2026-07-31 | 3 |
 | 2026-08-03 | 4 |
-| 2026-08-04 | 2 |
+| 2026-08-04 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 55% |
-| Binary Search | 27 | 44% |
-| Two Pointers | 19 | 31% |
-| Linked List | 14 | 23% |
-| Math | 11 | 18% |
+| Array | 34 | 54% |
+| Binary Search | 27 | 43% |
+| Two Pointers | 19 | 30% |
+| Linked List | 15 | 24% |
+| Math | 11 | 17% |
 | Hash Table | 10 | 16% |
-| Sorting | 9 | 15% |
+| Sorting | 9 | 14% |
 | Recursion | 6 | 10% |
 | Matrix | 5 | 8% |
 | Bit Manipulation | 3 | 5% |
@@ -55,7 +55,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 10 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 2 |
-| [Linked List](Topics/linked-list/) | 14 |
+| [Linked List](Topics/linked-list/) | 15 |
 | [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
