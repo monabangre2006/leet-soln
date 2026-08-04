@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-03T04:18:03.196Z",
+  "updatedAt": "2026-08-04T06:01:01.012Z",
   "problems": [
     {
       "frontendId": "15",
@@ -163,6 +163,26 @@
           "path": "1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
           "sha": "2d967ddcef8aa75b4f943c7333731d3fed6c970c",
           "lastSyncedAt": "2026-07-24T06:11:50.899Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3731-find-missing-elements.cpp",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.cpp",
+          "sha": "06800bf1da65e244dbb5083d446a4330405a9d15",
+          "lastSyncedAt": "2026-08-04T06:01:01.012Z"
         }
       ]
     }
