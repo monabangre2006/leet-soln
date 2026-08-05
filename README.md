@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 30 | 32 | 3 |
+| 66 | 31 | 32 | 3 |
 
 ## Activity
 
@@ -26,17 +26,17 @@ Contains topicwise list of solved problems.
 | 2026-07-31 | 3 |
 | 2026-08-03 | 4 |
 | 2026-08-04 | 3 |
-| 2026-08-05 | 2 |
+| 2026-08-05 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 54% |
-| Binary Search | 28 | 43% |
-| Two Pointers | 21 | 32% |
-| Linked List | 16 | 25% |
-| Hash Table | 11 | 17% |
+| Array | 36 | 55% |
+| Binary Search | 29 | 44% |
+| Two Pointers | 22 | 33% |
+| Linked List | 16 | 24% |
+| Hash Table | 12 | 18% |
 | Math | 11 | 17% |
 | Sorting | 10 | 15% |
 | Recursion | 6 | 9% |
@@ -47,13 +47,13 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
-| [Binary Search](Topics/binary-search/) | 28 |
+| [Array](Topics/array/) | 36 |
+| [Binary Search](Topics/binary-search/) | 29 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 16 |
@@ -67,6 +67,6 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 3 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 21 |
+| [Two Pointers](Topics/two-pointers/) | 22 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
