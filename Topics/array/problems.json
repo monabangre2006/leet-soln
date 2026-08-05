@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-05T06:25:00.724Z",
+  "updatedAt": "2026-08-05T06:37:18.222Z",
   "problems": [
     {
       "frontendId": "1",
@@ -663,6 +663,26 @@
           "path": "1482-minimum-number-of-days-to-make-m-bouquets/1482-minimum-number-of-days-to-make-m-bouquets.cpp",
           "sha": "be58d56a339d0569564884280160a20efa115201",
           "lastSyncedAt": "2026-07-27T06:13:50.827Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "1748-sum-of-unique-elements/",
+      "readmePath": "1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1748-sum-of-unique-elements.cpp",
+          "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.cpp",
+          "sha": "d9d749726fc00e83a35378d30346b4d3808be900",
+          "lastSyncedAt": "2026-08-05T06:37:18.222Z"
         }
       ]
     },
