@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-05T04:19:38.068Z",
+  "updatedAt": "2026-08-05T04:31:07.490Z",
   "problems": [
     {
       "frontendId": "15",
@@ -423,6 +423,26 @@
           "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp",
           "sha": "a8644a8824db69b8b0d5f736eb2cb1dcf4e8c526",
           "lastSyncedAt": "2026-07-30T04:43:24.271Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2540-minimum-common-value.cpp",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.cpp",
+          "sha": "3801712d718984c2911c16d1db26a22636af189b",
+          "lastSyncedAt": "2026-08-05T04:31:07.490Z"
         }
       ]
     }
