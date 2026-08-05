@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 66 | 31 | 32 | 3 |
+| 67 | 31 | 33 | 3 |
 
 ## Activity
 
@@ -26,35 +26,37 @@ Contains topicwise list of solved problems.
 | 2026-07-31 | 3 |
 | 2026-08-03 | 4 |
 | 2026-08-04 | 3 |
-| 2026-08-05 | 3 |
+| 2026-08-05 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 36 | 55% |
-| Binary Search | 29 | 44% |
+| Array | 37 | 55% |
+| Binary Search | 29 | 43% |
 | Two Pointers | 22 | 33% |
 | Linked List | 16 | 24% |
-| Hash Table | 12 | 18% |
-| Math | 11 | 17% |
-| Sorting | 10 | 15% |
+| Hash Table | 13 | 19% |
+| Math | 11 | 16% |
+| Sorting | 11 | 16% |
 | Recursion | 6 | 9% |
-| Matrix | 5 | 8% |
-| Bit Manipulation | 3 | 5% |
+| Matrix | 5 | 7% |
+| Divide and Conquer | 4 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 37 |
 | [Binary Search](Topics/binary-search/) | 29 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Bucket Sort](Topics/bucket-sort/) | 1 |
+| [Counting](Topics/counting/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Hash Table](Topics/hash-table/) | 12 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Hash Table](Topics/hash-table/) | 13 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 16 |
 | [Math](Topics/math/) | 11 |
@@ -62,8 +64,9 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
-| [Sorting](Topics/sorting/) | 10 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 3 |
 | [String Matching](Topics/string-matching/) | 1 |
