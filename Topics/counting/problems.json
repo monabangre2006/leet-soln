@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-05T06:25:00.724Z",
+  "updatedAt": "2026-08-05T06:37:18.222Z",
   "problems": [
     {
       "frontendId": "347",
@@ -23,6 +23,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "45488e9e2ece4bf185f75c586f64ed8c6c1bac57",
           "lastSyncedAt": "2026-08-05T06:25:00.724Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "1748-sum-of-unique-elements/",
+      "readmePath": "1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1748-sum-of-unique-elements.cpp",
+          "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.cpp",
+          "sha": "d9d749726fc00e83a35378d30346b4d3808be900",
+          "lastSyncedAt": "2026-08-05T06:37:18.222Z"
         }
       ]
     }
