@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-05T04:19:38.068Z",
+  "updatedAt": "2026-08-05T04:31:07.490Z",
   "problems": [
     {
       "frontendId": "1",
@@ -663,6 +663,26 @@
           "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.cpp",
           "sha": "a59690b20dee278b9c267f2688a63af786c7dbf3",
           "lastSyncedAt": "2026-07-27T10:55:37.324Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2540-minimum-common-value.cpp",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.cpp",
+          "sha": "3801712d718984c2911c16d1db26a22636af189b",
+          "lastSyncedAt": "2026-08-05T04:31:07.490Z"
         }
       ]
     },
