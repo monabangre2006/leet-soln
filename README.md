@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 69 | 33 | 33 | 3 |
+| 70 | 34 | 33 | 3 |
 
 ## Activity
 
@@ -26,32 +26,32 @@ Contains topicwise list of solved problems.
 | 2026-07-31 | 3 |
 | 2026-08-03 | 4 |
 | 2026-08-04 | 3 |
-| 2026-08-05 | 6 |
+| 2026-08-05 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 55% |
-| Binary Search | 29 | 42% |
-| Two Pointers | 22 | 32% |
+| Array | 39 | 56% |
+| Binary Search | 30 | 43% |
+| Two Pointers | 22 | 31% |
 | Linked List | 16 | 23% |
-| Hash Table | 15 | 22% |
+| Hash Table | 15 | 21% |
 | Math | 11 | 16% |
 | Sorting | 11 | 16% |
 | Recursion | 6 | 9% |
 | Matrix | 5 | 7% |
-| Divide and Conquer | 4 | 6% |
+| Counting | 4 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 38 |
-| [Binary Search](Topics/binary-search/) | 29 |
+| [Array](Topics/array/) | 39 |
+| [Binary Search](Topics/binary-search/) | 30 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
-| [Counting](Topics/counting/) | 3 |
+| [Counting](Topics/counting/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 1 |
