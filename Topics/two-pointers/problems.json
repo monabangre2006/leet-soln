@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-03T04:18:03.196Z",
+  "updatedAt": "2026-08-05T03:51:42.687Z",
   "problems": [
     {
       "frontendId": "15",
@@ -103,6 +103,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "461595a150eb810e39dd4bfc96c4b8ca6e00fee7",
           "lastSyncedAt": "2026-07-22T09:03:04.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0061-rotate-list.cpp",
+          "path": "0061-rotate-list/0061-rotate-list.cpp",
+          "sha": "67b1fb225a6b740375bebae2347f3147776d477c",
+          "lastSyncedAt": "2026-08-05T03:51:42.687Z"
         }
       ]
     },
