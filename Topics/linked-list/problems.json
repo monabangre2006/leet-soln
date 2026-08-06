@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-06T04:00:59.132Z",
+  "updatedAt": "2026-08-06T04:12:06.465Z",
   "problems": [
     {
       "frontendId": "19",
@@ -103,6 +103,26 @@
           "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.cpp",
           "sha": "0168638d4904e5694f73adbdcc4d8378d9bf45bc",
           "lastSyncedAt": "2026-08-04T06:17:45.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "problemName": "0138-copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "folderPath": "0138-copy-list-with-random-pointer/",
+      "readmePath": "0138-copy-list-with-random-pointer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0138-copy-list-with-random-pointer.cpp",
+          "path": "0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp",
+          "sha": "0b4120b4d4be1c5b2659f5f15c114381b3eb577f",
+          "lastSyncedAt": "2026-08-06T04:12:06.465Z"
         }
       ]
     },
