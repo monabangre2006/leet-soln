@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-05T11:11:01.872Z",
+  "updatedAt": "2026-08-06T04:55:51.166Z",
   "problems": [
     {
       "frontendId": "1",
@@ -643,6 +643,26 @@
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.cpp",
           "sha": "c5d56916ec597c9d21298cace01f5de770c0bef7",
           "lastSyncedAt": "2026-07-24T06:40:29.341Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1394",
+      "title": "Find Lucky Integer in an Array",
+      "slug": "find-lucky-integer-in-an-array",
+      "problemName": "1394-find-lucky-integer-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+      "folderPath": "1394-find-lucky-integer-in-an-array/",
+      "readmePath": "1394-find-lucky-integer-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1394-find-lucky-integer-in-an-array.cpp",
+          "path": "1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.cpp",
+          "sha": "6dd5082699e7101a97b7f6aac8fd3ad96311ae70",
+          "lastSyncedAt": "2026-08-06T04:55:51.166Z"
         }
       ]
     },
