@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 72 | 35 | 34 | 3 |
+| 73 | 36 | 34 | 3 |
 
 ## Activity
 
@@ -27,22 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-08-03 | 4 |
 | 2026-08-04 | 3 |
 | 2026-08-05 | 7 |
-| 2026-08-06 | 2 |
+| 2026-08-06 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 39 | 54% |
-| Binary Search | 30 | 42% |
-| Two Pointers | 22 | 31% |
-| Linked List | 18 | 25% |
+| Array | 39 | 53% |
+| Binary Search | 30 | 41% |
+| Two Pointers | 22 | 30% |
+| Linked List | 19 | 26% |
 | Hash Table | 16 | 22% |
 | Math | 11 | 15% |
 | Sorting | 11 | 15% |
-| Recursion | 7 | 10% |
+| Recursion | 8 | 11% |
 | Matrix | 5 | 7% |
-| Counting | 4 | 6% |
+| Counting | 4 | 5% |
 
 ## Topics
 
@@ -59,14 +59,14 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
-| [Linked List](Topics/linked-list/) | 18 |
+| [Linked List](Topics/linked-list/) | 19 |
 | [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 7 |
+| [Recursion](Topics/recursion/) | 8 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 4 |
