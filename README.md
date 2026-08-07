@@ -67,6 +67,7 @@ Contains topicwise list of solved problems.
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
+| [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 2 |
