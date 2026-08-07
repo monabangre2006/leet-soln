@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 37 | 34 | 3 |
+| 75 | 38 | 34 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 5 days | 13 |
+| 5 days | 5 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,35 +28,36 @@ Contains topicwise list of solved problems.
 | 2026-08-04 | 3 |
 | 2026-08-05 | 7 |
 | 2026-08-06 | 4 |
+| 2026-08-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 40 | 54% |
-| Binary Search | 30 | 41% |
-| Two Pointers | 22 | 30% |
-| Linked List | 19 | 26% |
-| Hash Table | 17 | 23% |
+| Array | 41 | 55% |
+| Binary Search | 30 | 40% |
+| Two Pointers | 22 | 29% |
+| Linked List | 19 | 25% |
+| Hash Table | 18 | 24% |
 | Math | 11 | 15% |
 | Sorting | 11 | 15% |
 | Recursion | 8 | 11% |
-| Counting | 5 | 7% |
+| Counting | 6 | 8% |
 | Matrix | 5 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Binary Search](Topics/binary-search/) | 30 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
-| [Counting](Topics/counting/) | 5 |
+| [Counting](Topics/counting/) | 6 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Hash Table](Topics/hash-table/) | 17 |
+| [Hash Table](Topics/hash-table/) | 18 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 19 |
