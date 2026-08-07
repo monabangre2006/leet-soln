@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-06T04:55:51.166Z",
+  "updatedAt": "2026-08-07T04:43:28.712Z",
   "problems": [
     {
       "frontendId": "347",
@@ -103,6 +103,26 @@
           "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
           "sha": "ea593b4504f4b71965e79f592b3c8037d5698103",
           "lastSyncedAt": "2026-08-05T11:11:01.872Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3866",
+      "title": "First Unique Even Element",
+      "slug": "first-unique-even-element",
+      "problemName": "3866-first-unique-even-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-even-element/",
+      "folderPath": "3866-first-unique-even-element/",
+      "readmePath": "3866-first-unique-even-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3866-first-unique-even-element.cpp",
+          "path": "3866-first-unique-even-element/3866-first-unique-even-element.cpp",
+          "sha": "298c3e26094a6afbb4750b7d935639c71c731844",
+          "lastSyncedAt": "2026-08-07T04:43:28.712Z"
         }
       ]
     }
