@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-03T09:26:59.179Z",
+  "updatedAt": "2026-08-07T06:43:12.199Z",
   "problems": [
     {
       "frontendId": "234",
@@ -43,6 +43,26 @@
           "path": "0445-add-two-numbers-ii/0445-add-two-numbers-ii.cpp",
           "sha": "c1c41f58f5062ad95b1a197f99506a4b8371cc3f",
           "lastSyncedAt": "2026-08-03T09:26:59.179Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "problemName": "2130-maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+      "folderPath": "2130-maximum-twin-sum-of-a-linked-list/",
+      "readmePath": "2130-maximum-twin-sum-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2130-maximum-twin-sum-of-a-linked-list.cpp",
+          "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.cpp",
+          "sha": "6e1f53076782993fd769e0e7031dd7fabf124c6f",
+          "lastSyncedAt": "2026-08-07T06:43:12.199Z"
         }
       ]
     }
