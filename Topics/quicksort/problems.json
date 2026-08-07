@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "quicksort",
+    "name": "Quicksort"
+  },
+  "updatedAt": "2026-08-07T06:34:33.701Z",
+  "problems": [
+    {
+      "frontendId": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "problemName": "0056-merge-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+      "folderPath": "0056-merge-intervals/",
+      "readmePath": "0056-merge-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0056-merge-intervals.cpp",
+          "path": "0056-merge-intervals/0056-merge-intervals.cpp",
+          "sha": "2e662bf4b1563f77d1ca4834694d45754c117c03",
+          "lastSyncedAt": "2026-08-07T06:34:33.701Z"
+        }
+      ]
+    }
+  ]
+}
