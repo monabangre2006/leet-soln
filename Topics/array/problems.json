@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-07T06:33:51.973Z",
+  "updatedAt": "2026-08-07T06:34:33.701Z",
   "problems": [
     {
       "frontendId": "1",
@@ -182,7 +182,7 @@
           "filename": "0056-merge-intervals.cpp",
           "path": "0056-merge-intervals/0056-merge-intervals.cpp",
           "sha": "2e662bf4b1563f77d1ca4834694d45754c117c03",
-          "lastSyncedAt": "2026-07-22T09:05:24.317Z"
+          "lastSyncedAt": "2026-08-07T06:34:33.701Z"
         }
       ]
     },
